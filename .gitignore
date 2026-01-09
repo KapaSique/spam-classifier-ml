@@ -1,0 +1,13 @@
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# jupyter
+.ipynb_checkpoints/
+
+# models/artifacts
+models/
+*.pkl
+*.joblib
